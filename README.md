@@ -1,2 +1,2 @@
 # spring-boot-jpa
-springBoot 与 jpa 集成
+springBoot 与 jpa 集成 ~
